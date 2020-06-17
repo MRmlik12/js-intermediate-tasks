@@ -8,3 +8,5 @@
    Sample output : [5, 7, 23, 32, 34, 62]
 4. Write a function to calculate days left until next Christmas.
 5. Write a program to calculate multiplication and division of two numbers (input from user).
+
+## Task 6-10
