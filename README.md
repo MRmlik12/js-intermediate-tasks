@@ -10,3 +10,11 @@
 5. Write a program to calculate multiplication and division of two numbers (input from user).
 
 ## Task 6-10
+6. Write a program to get the website URL (loading page)
+
+7. Write a program to create a new string from a given string changing the position of first and last characters. The string length must be greater than or equal to 1
+
+8. Write a program to create a new string from a given string with the first character of the given string added at the front and back.
+
+9. Write a program to create a new string from a given string taking the last 3 characters and added at both the front and back. The string length must be 3 or more.
+10. Write a program to check if three given integer values are in the range 50..99 (inclusive). Return true if one or more of them are in the said range.
